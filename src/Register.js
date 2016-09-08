@@ -16,7 +16,7 @@ class Register extends Component {
   render() {
     return (
       <div className="login-form">
-        <h3>Login</h3>
+        <h3>Register</h3>
         <input type="text" name="username" placeholder="Username" ref="username"/>
         <br/>
         <input type="password" name="password" placeholder="Password" ref="password"/>
